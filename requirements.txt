@@ -1,0 +1,9 @@
+numpy
+Cython
+Fortuna
+RNG
+IteratorAlgorithms
+MonkeyScope
+pandas
+sklearn
+category_encoders
